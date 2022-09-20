@@ -17,6 +17,10 @@ var response = await _policy.ExecuteAsync(() => _httpClient.GetAsync(_requestUri
 
 # Links
 
-[Nuget package](https://www.nuget.org/packages/Polly)
+[Polly NuGet package](https://www.nuget.org/packages/Polly)
 
 [Use IHttpClientFactory to implement resilient HTTP requests](https://learn.microsoft.com/de-de/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
+
+[.NET Microservices: Architecture for Containerized .NET Applications (e-book)](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf)
+
+[Nick Chapsas - The CORRECT way to implement Retries in .NET (YouTube)](https://www.youtube.com/watch?v=nJH0PC2Pubs)
