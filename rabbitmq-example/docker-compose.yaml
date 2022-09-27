@@ -9,3 +9,5 @@ services:
     volumes:
       - "./rabbitmq/rabbitmq.conf:/etc/rabbitmq/rabbitmq.conf:ro"
       - "./rabbitmq/definitions.json:/etc/rabbitmq/definitions.json:ro"
+      - "./rabbitmq/logs:/var/log/rabbitmq/:rw"
+      

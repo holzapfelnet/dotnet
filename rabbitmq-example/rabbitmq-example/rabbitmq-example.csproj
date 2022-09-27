@@ -38,7 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\.editorconfig" Link="Solution Items\.editorconfig" />
+    <EditorConfigFiles Include="..\..\.editorconfig" Link="Solution Items\.editorconfig" />
   </ItemGroup>
 
   <ItemGroup>
