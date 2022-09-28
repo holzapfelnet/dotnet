@@ -4,7 +4,7 @@ using Microsoft.Extensions.Logging;
 using RabbitMQ.Client;
 using System.Text;
 
-namespace RabbitMqExample;
+namespace RabbitMq.Example;
 
 internal sealed class Sender
 {

@@ -1,6 +1,6 @@
 ﻿#pragma warning disable SA1600
 
-namespace RabbitMqExample
+namespace RabbitMq.Example
 {
     internal sealed class Settings
     {

@@ -3,7 +3,7 @@
 
 using Microsoft.Extensions.Logging;
 
-namespace RabbitMqExample;
+namespace RabbitMq.Example;
 
 public class Program
 {

@@ -5,7 +5,7 @@ using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
 
-namespace RabbitMqExample;
+namespace RabbitMq.Example;
 
 internal sealed class Receiver
 {
